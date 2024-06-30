@@ -1,12 +1,16 @@
 # AI-TASK-DEBALES-ASSIGNMENT
-This is a chatbot assignment
-Please find my assignment here:
+# This is a chatbot assignment
+# Please find my assignment here:
+
+![Screenshot 2024-06-30 221935](https://github.com/ArjunMadhyastha/AI-TASK-DEBALES-ASSIGNMENT/assets/120244775/6af0cc16-6a83-4a7d-a5ea-fcd2f738e67b)
+
+
 1. I have extracted the data from the url using Langchain's selenium url loader
 2. I have used the HuggingFace embeddings
 3. I have used the HuggingFace mistral AI for the chatbox
 4. I have created the Flask Restful Api to handle the chatbot conversations
 
-Steps to run:
+# Steps to run:
 1. Install the required packages
 2. Run the preprocessing.py file which creates a pickle file
 3. Then run the app.py file
