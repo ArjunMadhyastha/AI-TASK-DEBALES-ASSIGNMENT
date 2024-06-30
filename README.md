@@ -6,9 +6,10 @@
 
 
 1. I have extracted the data from the url using Langchain's selenium url loader
-2. I have used the HuggingFace embeddings
-3. I have used the HuggingFace mistral AI for the chatbox
-4. I have created the Flask Restful Api to handle the chatbot conversations
+2. I have splitted the data into chunks recursively using Recursive text splitter to optimize the response
+3. I have used the HuggingFace embeddings
+4. I have used the HuggingFace mistral AI for the chatbox
+5. I have created the Flask Restful Api to handle the chatbot conversations
 
 # Steps to run:
 1. Install the required packages
